@@ -10,12 +10,12 @@
 // === : valor e tipo
 // !! : ou
 // != : valor 
-// !== : valor e tipo
+// !== : valor e tipo (diferente)
 
 // let : é mais usado quando se tem alterações 
 
 
-const user = {
+const user = [ {
     nome: "Tamara",
     idade: 26,
     email: "tamara.avelino@outlook.com",
@@ -23,7 +23,7 @@ const user = {
     genero: "feminino"
 }
 
-const filmes = [
+const filmes = 
     {
     titulo: "vingadores",
     ano: 2012,
@@ -49,4 +49,4 @@ const filmes = [
 //   return
 // }
 
-// console.log("Não precisa se")
+// console.log("Não precisa")
